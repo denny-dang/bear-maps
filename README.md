@@ -1,6 +1,6 @@
-# Bear Maps
+# BearMaps
 
-Bear Maps is a web mapping application of Berkeley inspired by the OpenStreetMap project. I developed the backend logic for rasterizing map images, finding the most optimal path between two locations, and autocompleting searches.
+BearMaps is a web mapping application of Berkeley inspired by the OpenStreetMap project. I developed the backend logic for rasterizing map images, finding the most optimal path between two locations, and autocompleting searches.
 
 
 Feature | Description
